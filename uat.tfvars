@@ -1,0 +1,5 @@
+project_id = "cosmic-descent-405605"
+object = "main.zip"
+secret = "secret"
+bucket = "cosmic-descent-405605-tfstates"
+svc = "jenkins@cosmic-descent-405605.iam.gserviceaccount.com"
